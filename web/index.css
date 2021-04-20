@@ -1,0 +1,89 @@
+body {
+  background-color: gray;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.96), rgba(0, 0, 0, 0.96)), url(pictures/ahegao.jpg);
+}
+
+.title{
+  display: inline-block;
+  vertical-align:middle;
+}
+
+.nuclear-title{
+  font-family: Montserrat;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+.nuclear-title h1{
+  margin:auto;
+  line-height:51px;
+}
+
+.comic-preview{
+  height: 511px;
+}
+
+.nuclear-code{
+  font-family: Montserrat;
+  color: white;
+}
+
+.button{
+
+}
+.picture-container{
+  float:left;
+}
+
+.menu-container{
+  padding-top: 71px;
+  margin-left: 181px;
+}
+
+.nuclear-menu{
+  padding-left: 15px;
+  margin-left: 40px;
+  float:left;
+  padding: 3px; width: 350px; word-break: keep-all; word-wrap: break-word;
+}
+
+.nuclear-menu input{
+height: 25px;
+width: 100%;
+}
+
+.button-container{
+  margin-top: 40px;
+}
+
+.button-container button{
+  color: black;
+  border: none;
+  background-color: white;
+  width: 40%;
+  height: 100%;px display: inline-block;
+  height: 40px;
+  font-size: 13px;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+.download-button{
+  margin-left: 5px;
+}
+
+.preview-button{
+  margin-left: 60px;
+}
+
+.nuclear-menu h4{
+  text-align: right;
+  vertical-align: bottom;
+}
+
+.bottom-space{
+  height: 20px;
+}
+
+.clear{
+  clear: both;
+}
