@@ -4,7 +4,7 @@ This program uses:
 - Eel
 - Beaautiful Soup
 ## Program Feature
-## Main Menu Preview
+### Main Menu Preview
 ![alt text](pictures/main.jpg?raw=true)
 ### Download all manga page on nhentai when given a code
 ![alt text](pictures/download.jpg?raw=true)
